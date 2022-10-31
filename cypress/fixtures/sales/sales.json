@@ -1,0 +1,22 @@
+{
+    "party_name": "Kate smith",
+    "party_email": "kate@email.com",
+    "party_phone": "01678600786",
+    "party_balance": "2000",
+    "party_address": "Gulsan 2",
+    "initial_balance_date": "02-03-2023",
+    "party_tin": "SA123456",
+    "product_name": "Potato",
+    "product_code": "potato-03",
+    "product_serial_no": "1",
+    "product_purchase_price": 50,
+    "product_sales_price": 100,
+    "product_initial_stock": 5,
+    "batch_no": "53",
+    "mfgdate": "14-06-2022",
+    "expdate": "14-07-2022",
+    "description": "Test",
+    "purchase_quantity": 5,
+    "trasanction_amount": 250,
+    "sales_return_amount": 200
+}

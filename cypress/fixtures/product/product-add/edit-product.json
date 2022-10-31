@@ -1,0 +1,14 @@
+{
+    "name": "Mobile",
+    "code": "M-01",
+    "serial_no": "1000",
+    "purchase_price": 10000.25,
+    "sales_price": 12500.45,
+    "mrp_price": 12500.75,
+    "discount": 5.5,
+    "vat": 2.5,
+    "batch_no": "66",
+    "mfgdate": "14-06-2022",
+    "expdate": "14-07-2022",
+    "description": "Description"
+}
